@@ -1,0 +1,8 @@
+further implementation of cherry pick.
+
+github repo consist of 3 commits in main branches
+-> i pull the code of main branch in local system
+->now after checking the commits from git log i copy the hashcode of firsst commit
+
+before pulling the main branch i created a local branch and later in that localsystem branch i cherry pick the 
+first commit of main branch which was pulled from github repo
