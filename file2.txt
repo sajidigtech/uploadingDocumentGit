@@ -1,0 +1,12 @@
+day 2 :
+about git stash
+git stash pop
+tags ->types lightweight and annotated
+rebase concept
+git pull vs git fetch
+git reset soft mixed and hard
+head~1
+git log git reflog
+git rebase
+git amned
+cherry picking 
