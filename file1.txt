@@ -1,0 +1,26 @@
+day 1 : i covered introduction topics about git, 
+diff bw git vs github
+vcs : cvcs and dvcs
+ three main states : modified, staged, and committed
+ github account creation 
+ git configuration
+
+ commands like git config --list
+ git config user.name
+ git config user.email
+ git init
+
+ git status : tracked untracked files
+git commit -m "msg"
+git add <untracked file>
+
+git branching 
+changin name from master to main
+changing or switching branches
+
+ understood git clone and git push
+ git remote add origin
+
+ branch delete
+
+ git diff
