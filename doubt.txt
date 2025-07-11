@@ -1,0 +1,5 @@
+doubt : not able to understand :fatal: refusing to merge unrelated histories
+this occured when i was implementing cherrypicking, by pulling files from github to local repo
+
+
+and understood the concept of rebase, but actual implementation was bit confusing
